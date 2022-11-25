@@ -1,0 +1,15 @@
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/bin/Debug/net5.0/programmeringsolympiaden-1.deps.json
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/bin/Debug/net5.0/programmeringsolympiaden-1.runtimeconfig.json
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/bin/Debug/net5.0/programmeringsolympiaden-1.runtimeconfig.dev.json
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/bin/Debug/net5.0/programmeringsolympiaden-1.dll
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/bin/Debug/net5.0/ref/programmeringsolympiaden-1.dll
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/bin/Debug/net5.0/programmeringsolympiaden-1.pdb
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/obj/Debug/net5.0/programmeringsolympiaden-1.csproj.AssemblyReference.cache
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/obj/Debug/net5.0/programmeringsolympiaden-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/obj/Debug/net5.0/programmeringsolympiaden-1.AssemblyInfoInputs.cache
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/obj/Debug/net5.0/programmeringsolympiaden-1.AssemblyInfo.cs
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/obj/Debug/net5.0/programmeringsolympiaden-1.csproj.CoreCompileInputs.cache
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/obj/Debug/net5.0/programmeringsolympiaden-1.dll
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/obj/Debug/net5.0/ref/programmeringsolympiaden-1.dll
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/obj/Debug/net5.0/programmeringsolympiaden-1.pdb
+/Users/hibba/Documents/GitHub/programmeringsolympiaden-1/obj/Debug/net5.0/programmeringsolympiaden-1.genruntimeconfig.cache
